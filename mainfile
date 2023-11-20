@@ -15,3 +15,9 @@ int i;
 for (i = 0; i < 5; i++) {
   printf("%d\n", i);
 }
+
+this array example
+
+int myNumbers[] = {25, 50, 75, 100};
+printf("%d", myNumbers[0]);
+
