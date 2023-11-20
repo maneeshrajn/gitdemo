@@ -1,5 +1,6 @@
  
- this is 1st file 
+ this is helllo world
+  
 #include <stdio.h>
 
 int main() {
@@ -7,3 +8,10 @@ int main() {
   return 0;
 }
 
+
+     this is loop
+int i;
+
+for (i = 0; i < 5; i++) {
+  printf("%d\n", i);
+}
